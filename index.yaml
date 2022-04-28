@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   selenium-grid:
   - apiVersion: v2
-    appVersion: 4.1.3-20220405
-    created: "2022-04-10T10:07:39.002365-04:00"
+    appVersion: 4.1.4-20220427
+    created: "2022-04-28T15:54:33.443912-04:00"
     description: A Helm chart for creating a Selenium grid server in Kubernetes
-    digest: 6e649ff904a46d0103e45c85bf7fa8be80ac1dcba4d0fc7d2465919c67b61dba
+    digest: a213f843cced1c0e226e9a0ebfe9f36924832e468585503ad13adebf17a33c81
     name: selenium-grid
     type: application
     urls:
     - https://novakps.github.io/docker-selenium/selenium-grid-0.3.0.tgz
     version: 0.3.0
-generated: "2022-04-10T10:07:38.966284-04:00"
+generated: "2022-04-28T15:54:33.442258-04:00"
